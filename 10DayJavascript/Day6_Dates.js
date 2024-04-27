@@ -40,4 +40,4 @@ function main() {
         
         console.log(getDayName(date));
     }
-}
+}2
